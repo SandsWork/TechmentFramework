@@ -4,7 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.Sandipan</groupId>
     <artifactId>Selenium</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
+    <modules>
+        <module>target</module>
+    </modules>
     <version>0.0.1-SNAPSHOT</version>
     <name>Selenium</name>
     <url>http://maven.apache.org</url>
